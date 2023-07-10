@@ -27,15 +27,16 @@ font-family: 'Poppins', sans-serif;
 .header-text-area p{
     color: rgba(39, 39, 39, 0.60);
     line-height: 30px;
-    margin: 20px 0 20px 0;
+    margin: 20px 0 10px 0;
 }
 .header-text-area a{
-    padding: 10px;
+    padding: 7px 15px;
     background-color: #E55473;
     text-decoration: none;
-    font-size: 10px;
-    font-weight: 600;
+    font-size: 15px;
+    font-weight: 500;
     color: white;
+    border-radius: 7px;
 }
 .img-container img{
     width: 450px;
